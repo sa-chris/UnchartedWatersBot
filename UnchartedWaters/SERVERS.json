@@ -1,0 +1,20 @@
+{
+        "Uncharted Waters": {
+                "ENTER_DISCORD_SERVER_ID": {
+                        "Enabled": "False",
+                        "Channel": "ENTER_DISCORD_CHANNEL_ID",
+                        "ChannelName": "ENTER_DISCORD_CHANNEL_NAME",
+                        "Server": "ENTER_DISCORD_SERVER_NAME",
+                        "SheetName": "ENTER_GOOGLE_SHEET_NAME",
+                        "SheetLink": "ENTER_GOOGLE_SHEET_URL"
+                },
+				"00112233445566": {
+                        "Enabled": "False",
+                        "Channel": "3355778899",
+                        "ChannelName": "uncharted-waters-example",
+                        "Server": "Uncharted Waters Test",
+                        "SheetName": "UnchartedWatersSheet",
+                        "SheetLink": "https://docs.google.com/spreadsheets/d/1a2b3c4d5eGoogleSheet/edit?usp=sharing"
+                }
+		}
+}

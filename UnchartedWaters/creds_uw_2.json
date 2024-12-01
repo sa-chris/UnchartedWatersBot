@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "REPLACEMEWITHYOURPROJECT_ID",
+  "private_key_id": "REPLACEMEWITHYOURPRIVATE_KEY_ID",
+  "private_key": "-----BEGIN PRIVATE KEY-----\REPLACEMEWITHYOURPRIVATE_KEY\n-----END PRIVATE KEY-----\n",
+  "client_email": "REPLACEMEWITHYOUR@gserviceaccount.com",
+  "client_id": "REPLACEMEWITHYOURCLIENT_ID",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "REPLACEMEWITHYOURCERT_URL"
+}
